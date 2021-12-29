@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.0">
+	<name>NTP client</name>
+	<version>1.0</version>
+	<release_date>202112290000</release_date>
+	<coder>Galaxy Master</coder>
+	<short_description>Network Time Protocol client</short_description>
+	<long_description>Set the system time from a Network Time Protocol (NTP) server.
+
+You can select the UTC offset of your time zone with the D-Pad of any connected Wii Remote or GameCube controller. After selecting your time zone, press A to continue.</long_description>
+</app>
