@@ -28,11 +28,11 @@
 #endif
 
 // The Wii is big-endian.
-#define htobe16(x)			(x)
-#define be16toh(x)			(x)
+#define htobe16(x)			x
+#define be16toh(x)			x
 
-#define htobe32(x)			(x)
-#define be32toh(x)			(x)
+#define htobe32(x)			x
+#define be32toh(x)			x
 
 #define NET_CONNECT_TIMEOUT		5000
 #define NET_RECV_TIMEOUT		10000
