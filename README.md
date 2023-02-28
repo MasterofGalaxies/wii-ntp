@@ -4,7 +4,7 @@
 
 Run `make` with the variable `DEVKITPPC` set to the path of devkitPPC (as an environment variable or an argument passed thereto).
 
-You can also set the variable `DEFAULT_NTP_SERVER` to override the default server of `time.nist.gov` (set in `source/ntp.c`).
+You can also set the variable `DEFAULT_NTP_SERVER` to override the default server of `pool.ntp.org` (set in `source/ntp.c`).
 
 ## Usage
 

@@ -24,7 +24,7 @@
 #include <wiiuse/wpad.h>
 
 #ifndef DEFAULT_NTP_SERVER
-#define DEFAULT_NTP_SERVER "time.nist.gov"
+#define DEFAULT_NTP_SERVER "pool.ntp.org"
 #endif
 
 // The Wii is big-endian.
