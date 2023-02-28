@@ -24,4 +24,4 @@ Additionally, this application supports the following arguments:
 
 ## License
 
-I dedicate the contents of this repository to the public domain via Creative Commons CC0 1.0 Universal \(a copy of which can be found in `LICENSE.txt`\). Additionally, this code contains several excerpts from systemd-timesyncd, licensed under the GNU Lesser General Public License as published by the Free Software Foundation, either version 2.1 of the License, or (at your option) any later version.
+I dedicate the contents of this repository to the public domain via Creative Commons CC0 1.0 Universal \(a copy of which can be found in [`LICENCE.txt`](/LICENCE.txt)\). Additionally, this code contains several excerpts from systemd-timesyncd, licensed under the GNU Lesser General Public License as published by the Free Software Foundation, either version 2.1 of the License, or (at your option) any later version.
